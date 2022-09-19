@@ -82,6 +82,7 @@ main {
 
 #links {
   padding: 30px 40px;
+  gap: 20px;
 }
 
 .link {
@@ -98,5 +99,4 @@ main {
 .link p {
   font-weight: 400;
   font-size: 13px;
-  line-height: 16.34px;
 }
