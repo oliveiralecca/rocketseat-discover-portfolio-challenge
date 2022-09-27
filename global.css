@@ -2,6 +2,7 @@
   --body-bg-color: #22212C;
   --text-color: #837E9F;
   --bg-cards: #302F3D;
+  --bg-cards-hover: #302F3D80;
   --bg-techs: #CB92B1;
 }
 
@@ -207,7 +208,15 @@ main {
   flex: 1;
   height: 186px;
 
+  text-decoration: none;
+  color: unset;
+
   padding: 30px 10px 30px 30px;
+}
+
+.project:hover {
+  background-color: var(--bg-cards-hover);
+  transition: .3s;
 }
 
 .project img {
@@ -288,9 +297,52 @@ main {
 }
 
 .post {
+  flex-direction: row;
+  column-gap: 20px;
+
   height: 201px;
 
   padding: 30px 30px 42px 30px;
+}
+
+.post img {
+  width: 128px;
+  height: 128px;
+
+  border-radius: 50%;
+}
+
+.texts h3 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22.63px;
+
+  margin-bottom: 9px;
+}
+
+.texts span,
+.hashtags span {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17.6px;
+}
+
+span.time {
+  display: inline-block;
+  margin-bottom: 28px;
+}
+
+.texts p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20.11px;
+
+  margin-bottom: 11px;
+}
+
+.hashtags {
+  display: flex;
+  column-gap: 25px;
 }
 
 footer {
