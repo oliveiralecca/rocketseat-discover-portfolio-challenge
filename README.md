@@ -1,8 +1,6 @@
 <div align="center" id="top"> 
   <img src="./assets/favicon.ico" alt="Rocketseat Discover Challenge Portfolio" />
 
-  &#xa0;
-
   <!-- <a href="https://rocketseatdiscoverchallengeportfolio.netlify.app">Demo</a> -->
 </div>
 
