@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-discover-challenge-portfolio?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-discover-challenge-portfolio?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-discover-challenge-portfolio?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/rocketseat-discover-challenge-portfolio?color=56BEB8" /> -->
 
@@ -38,7 +38,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
   <a href="https://github.com/oliveiralecca" target="_blank">Author</a>
 </p>
 
@@ -87,9 +87,9 @@ open `index.html` file or run `Live Server` on your VSCode with project open
 # The page will initialize in the <http://127.0.0.1:5500/index.html>
 ```
 
-## :memo: License ##
+<!-- ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
 
 
 Made with 💕 by <a href="https://github.com/oliveiralecca" target="_blank">Letícia Oliveira</a>
