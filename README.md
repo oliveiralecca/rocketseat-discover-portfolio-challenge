@@ -1,31 +1,31 @@
 <div align="center" id="top"> 
-  <img src="./assets/favicon.ico" alt="Rocketseat Discover Challenge Portfolio" />
+  <img src="./assets/favicon.ico" alt="Rocketseat Discover Portfolio Challenge" />
 
   <!-- <a href="https://rocketseatdiscoverchallengeportfolio.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Rocketseat Discover Challenge Portfolio</h1>
+<h1 align="center">Rocketseat Discover Portfolio Challenge</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/oliveiralecca/rocketseat-discover-challenge-portfolio?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/oliveiralecca/rocketseat-discover-portfolio-challenge?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/oliveiralecca/rocketseat-discover-challenge-portfolio?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/oliveiralecca/rocketseat-discover-portfolio-challenge?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-discover-challenge-portfolio?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-discover-portfolio-challenge?color=56BEB8">
 
-  <!-- <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-discover-challenge-portfolio?color=56BEB8"> -->
+  <!-- <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-discover-portfolio-challenge?color=56BEB8"> -->
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/rocketseat-discover-challenge-portfolio?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/rocketseat-discover-portfolio-challenge?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/rocketseat-discover-challenge-portfolio?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/rocketseat-discover-portfolio-challenge?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/rocketseat-discover-challenge-portfolio?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/rocketseat-discover-portfolio-challenge?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Rocketseat Discover Challenge Portfolio 🚀 Under construction...  🚧
+	🚧  Rocketseat Discover Portfolio Challenge 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -42,13 +42,13 @@
 
 <br>
 
-<img src="./.github/screenshot.png" alt="Rocketseat Discover Challenge Portfolio Screen" />
+<img src="./.github/screenshot.png" alt="Rocketseat Discover Portfolio Challenge Screen" />
 
 ## :dart: About ##
 
 This project was developed as a challenge from the Rocketseat Discover trail. My goal with this project and course was to reinforce my programming basis.
 
-The "Portfolio" project implements a simple page with a user's resume.
+The "Portfolio" project implements a simple page with an user's resume.
 
 ## :sparkles: Features ##
 
@@ -74,10 +74,10 @@ Before starting :checkered_flag:, I recommend you have [Live Server](https://mar
 
 ```bash
 # Clone this project
-$ git clone https://github.com/oliveiralecca/rocketseat-discover-challenge-portfolio
+$ git clone https://github.com/oliveiralecca/rocketseat-discover-portfolio-challenge
 
 # Access
-$ cd rocketseat-discover-challenge-portfolio
+$ cd rocketseat-discover-portfolio-challenge
 
 # Run the project
 open `index.html` file or run `Live Server` on your VSCode with project open
